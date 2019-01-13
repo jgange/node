@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "example package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgange/node.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Joe Gange <joegange0502@gmail.com> (http://fictionfabrication.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgange/node/issues"
+  },
+  "homepage": "https://github.com/jgange/node#readme"
+}
